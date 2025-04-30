@@ -1,1 +1,1 @@
-# CODSOFT - Python Internship Program, Parthiv Abhani
+# Python Projects, Parthiv Abhani
